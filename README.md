@@ -1,7 +1,8 @@
 
 
 # Change to Git https://github.com/jleixneri
-- Crerate URL
+- Crerate Repositorry
+- copy URL
 
 # Prepare Repository locally:
 - Open Git Bash
