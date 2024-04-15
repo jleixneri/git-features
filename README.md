@@ -5,9 +5,10 @@
 - copy URL
 
 # Prepare Repository locally:
-- prepare upload with  git config --global --add safe.directory '*'
+
 - Open Git Bash
-- Change to directory 
+- Change to directory
+- git config --global --add safe.directory '*'
 - git init
 - git add . 
 - git commit -m ""
